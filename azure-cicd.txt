@@ -1,1 +1,2 @@
 Hello, AZure CI/CD
+Edited in Git remote.. by xo
